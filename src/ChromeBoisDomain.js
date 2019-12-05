@@ -20,11 +20,11 @@ export default class ChromeBoisDomain extends Component {
     toggleCycling()
   }
   
-  whenPress = (e) => {
-    if(e.key=="a"){
+  whenPress = (event) => {
+    if(event.key=="a"){
       return resize('+')
     }
-    else if (e.key=="s"){
+    else if (event.key=="s"){
       return resize('-')
     }
   }

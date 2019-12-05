@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2019-12-05T19:11:48.487Z",
-    "end": "2019-12-05T19:11:48.713Z",
-    "duration": 226
+    "start": "2019-12-05T19:15:27.251Z",
+    "end": "2019-12-05T19:15:27.474Z",
+    "duration": 223
   },
   "tests": [
     {
       "title": "invokes the `drawChromeBoiAtCoords` method within `handleMouseMove`, passing the captured x and y values of the mouse from the event",
       "fullTitle": "<ChromeBoisDomain /> invokes the `drawChromeBoiAtCoords` method within `handleMouseMove`, passing the captured x and y values of the mouse from the event",
-      "duration": 5,
+      "duration": 10,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,14 +34,14 @@
     {
       "title": "when the 'a' key is pressed, `resize` is invoked with the argument of '+'",
       "fullTitle": "<ChromeBoisDomain /> when the 'a' key is pressed, `resize` is invoked with the argument of '+'",
-      "duration": 12,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "when the 's' key is pressed, `resize` is invoked with the argument of '-'",
       "fullTitle": "<ChromeBoisDomain /> when the 's' key is pressed, `resize` is invoked with the argument of '-'",
-      "duration": 5,
+      "duration": 11,
       "currentRetry": 0,
       "err": {}
     }
@@ -52,7 +52,7 @@
     {
       "title": "invokes the `drawChromeBoiAtCoords` method within `handleMouseMove`, passing the captured x and y values of the mouse from the event",
       "fullTitle": "<ChromeBoisDomain /> invokes the `drawChromeBoiAtCoords` method within `handleMouseMove`, passing the captured x and y values of the mouse from the event",
-      "duration": 5,
+      "duration": 10,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,14 +73,14 @@
     {
       "title": "when the 'a' key is pressed, `resize` is invoked with the argument of '+'",
       "fullTitle": "<ChromeBoisDomain /> when the 'a' key is pressed, `resize` is invoked with the argument of '+'",
-      "duration": 12,
+      "duration": 5,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "when the 's' key is pressed, `resize` is invoked with the argument of '-'",
       "fullTitle": "<ChromeBoisDomain /> when the 's' key is pressed, `resize` is invoked with the argument of '-'",
-      "duration": 5,
+      "duration": 11,
       "currentRetry": 0,
       "err": {}
     }
